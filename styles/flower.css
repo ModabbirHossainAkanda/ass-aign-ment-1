@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 30px 0px 200px;
+    padding-right: 240px;
+}
+.flower1{
+    width: 150px;
+}
+.title-description{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 10px;
+    word-wrap: normal;
+}
+.btn-primary{
+    background: #E55473;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
