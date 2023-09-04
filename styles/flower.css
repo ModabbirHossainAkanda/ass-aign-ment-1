@@ -121,3 +121,20 @@
     padding: 10px;
 }
 
+/* footer section */
+.new-footer{
+    background-color: #111010;
+    justify-content: space-around;
+    font-size: small;
+    padding: 100px 30px;
+    margin-top: 40px;
+}
+.shop,.foot{
+    color: white;
+    align-items: center;
+}
+.foot{
+    padding: 10px;
+    align-items: center;
+}
+
